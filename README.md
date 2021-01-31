@@ -5,4 +5,4 @@ This menu provides to summon any creatures/items/weapons easily that Half-Life 1
 
 Screenshots: Here
 
-Releases: Here
+Download: [Here](https://github.com/Alprnn357/alp-entity-menu/releases)
