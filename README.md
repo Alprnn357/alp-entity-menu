@@ -7,6 +7,6 @@ This menu provides to summon any creatures/items/weapons easily that Half-Life 1
 - Note: When adding "alp_entcolor.cfg" file, be sure to put two pak and cfg files into the same directory.
 # Links
 
-Video Preview: [YouTube](https://youtu.be/8_haEH1gs88)
+Video Preview: [YouTube](https://youtu.be/xoOuB6kJx6I)
 
 Download: [Releases](https://github.com/Alprnn357/alp-entity-menu/releases)
