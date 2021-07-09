@@ -10,3 +10,5 @@ This menu provides to summon any creatures/items/weapons easily that Half-Life 1
 Video Preview: [YouTube](https://youtu.be/xoOuB6kJx6I)
 
 Download: [Releases](https://github.com/Alprnn357/alp-entity-menu/releases)
+
+The material icons which are used in the .pak file are available under the [Apache License 2.0](https://github.com/Alprnn357/alp-entity-menu/blob/main/LICENSE.md)
