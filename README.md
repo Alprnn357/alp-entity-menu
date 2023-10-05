@@ -7,7 +7,7 @@ This menu provides to summon any creatures/items/weapons easily that Half-Life 1
 - After launching the game, go to Configuration > Touch > Touch buttons section.
 - Replace the `Command:` line to `exec alp/entmenu`
 - Select the button texture by pressing `Select` under the `Texture:` line.
-- Specify a button name to the `New Button:` line:
+- Specify a button name to the `New Button:` line.
 - Press the `Save` button below
 - Press the `Edit` button to move the new button anywhere.
 - Use the `Quit` button to save changes you've made then relaunch the game.
