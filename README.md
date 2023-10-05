@@ -14,8 +14,8 @@ This menu provides to summon any creatures/items/weapons easily that Half-Life 1
 - After creating game in Main Menu press the new button.
 
 # For configure the menu (like changing buttons color)
-Download "alp_entitymenu.cfg" file from Releases and put it to your game data folder then open it with text mode and change the values which are given between double quotation marks.
-Note: When adding "alp_entitymenu.cfg" file, be sure to put two .pak and .cfg files into the same directory.
+- Download "alp_entitymenu.cfg" file from Releases and put it to your game data folder then open it with text mode and change the values which are given between double quotation marks.
+- When adding "alp_entitymenu.cfg" file, be sure to put two .pak and .cfg files into the same directory.
 
 # Links
 Video Preview: [YouTube](https://youtu.be/xoOuB6kJx6I)
